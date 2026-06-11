@@ -1,0 +1,9 @@
+DESCRIPTIVE STATISTICS REPORT
+==================================================
+
+Total Sales: 2297200.86
+Total Profit: 286397.02
+Average Sales: 229.86
+Average Profit: 28.66
+Median Sales: 54.49
+Median Profit: 8.67
