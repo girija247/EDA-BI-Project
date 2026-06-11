@@ -106,5 +106,5 @@ The Power BI dashboard includes:
 
 ## Author
 
-Girija Naguru
+Naguru Girija Rani
 Aspiring Data Analyst | Python | SQL | Power BI
